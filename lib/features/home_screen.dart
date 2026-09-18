@@ -126,7 +126,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: CustomAppBar(
         titleImage: Assets.images.appIcon.path,
-        titleText: "Fest Quest",
+        titleText: "Event App",
         sufixImage: Assets.images.notification.path,
         settingIcon: Assets.images.setting.path,
       ),

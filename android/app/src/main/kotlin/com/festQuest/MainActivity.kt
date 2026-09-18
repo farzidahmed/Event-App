@@ -1,4 +1,4 @@
-package com.festQuest
+package com.eventApp
 
 import io.flutter.embedding.android.FlutterActivity
 

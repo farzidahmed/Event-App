@@ -99,7 +99,7 @@ class UtillScreenMobile extends StatelessWidget {
       builder: (_, child) {
         return GetMaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Fest Quest',
+          title: 'Event App',
           theme: ThemeData(
             primarySwatch: CustomTheme.kToDark,
             primaryColor: AppColor.primaryColor,
